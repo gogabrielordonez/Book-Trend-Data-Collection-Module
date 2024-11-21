@@ -1,0 +1,13 @@
+{
+      "name": "book-trend-collector",
+      "version": "1.0.0",
+      "main": "index.js",
+      "scripts": {
+            "start": "node index.js"
+      },
+      "dependencies": {
+            "axios": "^0.21.4",
+            "cheerio": "^1.0.0",
+            "json2csv": "^5.0.7"
+      }
+}
